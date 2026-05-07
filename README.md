@@ -7,12 +7,6 @@ Hi, I'm Alessandro 👋<br><br>Software developer from Lima, Peru. I build backe
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alessandropazos) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alessandro-pazos) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alessandropazos) 
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=AlessandroPazos1901&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=AlessandroPazos1901&theme=shadow_blue&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=AlessandroPazos1901&theme=shadow_blue&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 [![](https://komarev.com/ghpvc/?username=AlessandroPazos1901&icon=1&color=0)](https://visitcount.itsvg.in)
 
